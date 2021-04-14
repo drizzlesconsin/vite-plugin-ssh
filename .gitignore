@@ -1,0 +1,9 @@
+node_modules
+coverage
+.DS_Store
+.history
+dist
+*.local
+*.pem
+*.log
+package-lock.json
